@@ -1,0 +1,185 @@
+html.dark {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark #app {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .reading {
+    background-color: #272626!important;
+    color: #dad6d6;
+}
+html.dark .reading .return .van-nav-bar__text  {
+    color: #dad6d6;
+}
+html.dark .reading .catalogue-list p  {
+    border: none;
+}
+html.dark .reading .van-popup{
+    background-color: #272626;
+    color: #dad6d6;
+}
+html.dark .reading .catalogue{
+    background-color: #272626;
+    color: #dad6d6;
+}
+html.dark .reading  .nav-item{
+    background-color: #272626;
+    color: #dad6d6;
+}
+html.dark .van-sidebar-item{
+    background-color: #272626;
+    color: #dad6d6;
+}
+html.dark .reading  .van-cell{
+    background-color: #111;
+    color: #dad6d6;
+}
+html.dark .m-content {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .carouselMap-item {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .weeklyPromotion-item {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .shortCut-item {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .Popularity-item {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .partingLine {
+    background-color: #454242;
+}
+
+html.dark .onepicture-item {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .modernRomance-item {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .goodBooksSection-item {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .bookExclusive-item {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .weekOne {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .weekOne .title {
+    color: #dad6d6;
+}
+
+html.dark .van-grid-item__content {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .van-search {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .van-tabs__nav {
+    background-color: #272626;
+    color: #dad6d6;
+}
+
+html.dark .van-tab {
+    color: #dad6d6;
+}
+
+html.dark .van-search__content {
+    background-color: #323233;
+    color: #dad6d6;
+}
+
+html.dark .van-tab--active,
+html.dark .van-search__action {
+    color: #f2f1f1;
+}
+
+html.dark [class*=van-hairline]::after {
+    border: none;
+}
+
+html.dark .van-grid-item__text {
+    color: #dad6d6;
+}
+
+html.dark .footer {
+    color: #dad6d6;
+    background-color: #272626;
+}
+
+html.dark .van-nav-bar__content,
+html.dark .van-sidebar,
+html.dark .catalogue-list {
+    background-color: #111;
+    color: #dad6d6 !important;
+}
+
+html.dark .van-tabbar {
+    background-color: #111;
+}
+
+html.dark .van-tabbar-item--active {
+    background-color: #111;
+    color: #dad6d6 !important;
+}
+
+html.dark .van-tabbar-item.van-tabbar-item--active {
+    color: #dad6d6 !important;
+}
+
+html.dark .van-tabbar-item {
+    color: #7c7777 !important;
+}
+
+html.dark .van-nav-bar__content,
+html.dark .van-sidebar,
+html.dark .catalogue-list{
+    background-color: #111;
+    color: #dad6d6
+}
+
+html.dark .van-cell__value--alone,
+html.dark .van-nav-bar__text,
+html.dark .van-nav-bar .van-icon {
+    color: #dad6d6;
+}
+
+html.dark .search-item {
+    color: #dad6d6;
+    background-color: #272626;
+}
+
+html.dark .van-field__control {
+    color: #dad6d6;
+}
