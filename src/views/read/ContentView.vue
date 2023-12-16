@@ -46,7 +46,7 @@ export default {
                 // console.log('结构',this.$refs.contentP)
                 // console.log('结构',this.$refs.contentP.childNodes[0].innerText)
                 //文字数据
-                this.contentWords = this.$refs.contentP.childNodes[0].innerText;
+                this.contentWords = this.$refs.contentP.childNodes[0]?.innerText;
                 // 将内容存入本地
                 this.resetContentWord('contentWords', this.contentWords);
             })
@@ -67,7 +67,9 @@ export default {
     mounted() {
         // 获取数据异步方法
         this.getContentItem();
-
+        if(this.fontExtent==8){
+            this.$refs.Content.style.fontSize = Number(this.fontExtent) + 'px';
+        }
 
         //字体大小
         let fontExtent = localStorage.fontExtent;

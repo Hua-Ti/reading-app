@@ -41,6 +41,13 @@ export default {
     box-sizing: border-box;
     text-align: left;
 
+    .van-grid-item__text {
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        display: -webkit-box;
+        overflow: hidden;
+    }
+
     h4 {
         margin: 6px;
     }
